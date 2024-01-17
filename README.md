@@ -1,5 +1,5 @@
 # DnD_Cheats
-My detailed experience of learning to make kernal cheats 
+My experience of learning to make kernal cheats 
 
 Current gameplan: 
 1. Reverse DnD to find my desired offsets
