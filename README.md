@@ -14,3 +14,5 @@ Sources:
   https://github.com/cursey/ue4genny
   
   https://gamehacking.academy/
+
+  https://www.unknowncheats.me/forum/other-fps-games/618587-dark-darker-internal-v2-hwid-spoofer-3.html
